@@ -1,0 +1,14 @@
+.book-row {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .formdata {
+    padding-top: 90px;
+    width: 50%;
+    margin: auto;
+  }
+  
